@@ -10,7 +10,7 @@ public class ifElse {
         if (age >= 13 && age <= 19) {
             System.out.println("You are a teenager.");
         } else
-            System.out.println("You are not an teenager");
+            System.out.println("You are not an teenager4");
 
         scanner.close();
     }
